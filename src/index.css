@@ -1,0 +1,50 @@
+:root {
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.required span{
+  color: crimson;
+}
+
+.text-f span{
+  color: crimson;
+}
+
+.error {
+  color: crimson;
+}
+
+TextField {
+  flex: auto;
+}
+
+.MuiButton-colorError {
+  color: "warning";
+}
+
+body {
+  overflow: hidden;
+  min-width: 320px;
+  min-height: 105vh;
+}
+
+form {
+  justify-content: center;
+  width: 500px;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
