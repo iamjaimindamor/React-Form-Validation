@@ -1,30 +1,37 @@
-# React + TypeScript + Vite
+# React Form Validation Using react-hook-form 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+⟹ Basic Client-Side Validation using react-hook-form package from npm along with MUI Textfield. 
+<br>
 
-Currently, two official plugins are available:
+## 🚀 Intro
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+⟹ Client-Side Validation in Vite React App with TypeScript (TS)
 
-## Expanding the ESLint configuration
+⟹ Material UI Components 
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+⟹ Bootstrap 5
 
-- Configure the top-level `parserOptions` property like this:
+⟹ RegEX Pattern for Field Validations
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## 👾 References 
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+⟹ Same Validation are also used in my other React project MyQuickApp , do checkout.
+
+Visit repo : Click Here ⇢ <a href="https://github.com/iamjaimindamor/MyQuickApp-using-OpenIddict-Authentication-Scheme">MyQuickApp</a>
+
+<br>
+
+## ⬇️ To Run The Project
+
+⟹ npm install.
+
+⟹ npm run dev.
+
+<br>
+
+## 🤖 Screenshot
+
+![image](https://github.com/user-attachments/assets/33d338d5-3539-4ef8-b6d3-bd840b4f0d46)
+
+
+
